@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=hXgmuKgNkb0
+https://www.youtube.com/watch?v=jPt8GTu2O7Y
+https://www.youtube.com/watch?v=37IN_PW5U8E
+https://www.youtube.com/watch?v=MX1gz_hJqz4
+https://www.youtube.com/watch?v=bHFoobciCTM
+https://dev.mysql.com/doc/
+https://www.codeproject.com/Questions/1192760/How-to-display-rusult-of-select-where-in-PHP-mysql
+https://www.php.net/manual/es/function.mysql-result.php
+https://www.php.net/manual/es/mysqli.multi-query.php
+https://stackoverflow.com/questions/14516023/how-to-get-a-percentage-of-total-when-the-query-has-a-group-by

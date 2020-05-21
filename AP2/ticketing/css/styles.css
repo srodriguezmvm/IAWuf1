@@ -1,0 +1,47 @@
+body{
+	color:#000000;
+	font-family: 'Open Sans', sans-serif;
+	background-color:#EEE7E7;
+}
+nav{
+	padding:40px;
+}
+section{
+	float:left;
+}
+article{
+	float:left;
+	margin:40px;
+	width:80%;
+}
+h1{
+	font-weight:bold;
+}
+li{
+	list-style-type:none;
+	display:inline;
+}
+li a{
+	text-decoration:none;
+	color:#2F6AFF;
+	font-weight:bold;
+}
+table, tr, th, td{
+	border: 2px solid #000000;
+	padding: 10px;
+	text-align:center;
+}
+table {
+	margin-left:auto;
+margin-right:auto;
+}
+table#table1 {
+    margin-top: 20em;
+
+  }
+th{
+	font-weight:bold;
+}
+span{
+	padding: 5px;
+}
